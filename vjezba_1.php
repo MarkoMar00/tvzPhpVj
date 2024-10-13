@@ -22,5 +22,9 @@
             <br>
             <p><a href='$link'> Link na wikipediu</a><br>
         </body>
+<<<<<<< HEAD
     </html>";
 ?>
+=======
+    </html>";
+>>>>>>> e899987a0e7eacbffb5d91d55c9ca941bda8826a
