@@ -41,7 +41,7 @@
 
                 }
 
-            //</form>';
+            print '</form>';
         ?>
     </body>
 </html>
