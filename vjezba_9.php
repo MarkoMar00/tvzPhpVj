@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
     <html lang='hr'>
         <head>
-            <title>Ducan radno vrijeme</title>  
+            <title>Vjezba 9</title>  
             <meta http-equiv='content-type' content='text/html; charset=UTF-8>
             <meta name='description' content=''>
             <meta name='keywords' content=''>
