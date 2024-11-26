@@ -22,7 +22,7 @@
             }
 
             if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['name']) && isset($_POST['lastname'])) {
-                nadi_koriskika($_POST['name'], isset($_POST['lastname']));
+                nadi_koriskika($_POST['name'], $_POST['lastname']);
             }
         ?>
 
